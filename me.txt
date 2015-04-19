@@ -1,3 +1,4 @@
 my name is jessica guo
 i am learning bash
-and git
+and git basics on my mac
+it is slow going but fun

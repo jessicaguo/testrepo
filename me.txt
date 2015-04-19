@@ -1,3 +1,5 @@
 my name is jessica guo
 i am learning bash
 and git
+
+austin adding a line
